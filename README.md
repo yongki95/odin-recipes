@@ -1,2 +1,4 @@
 # odin-recipes
-practice for basic HTML knowledge 
+Practice for basic HTML knowledge 
+by building recipes website.
+It will use for future practice. 
